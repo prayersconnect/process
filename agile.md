@@ -1,7 +1,14 @@
 ## Agile Processes
 
 
-** Definition of Done**
+### Personas
+- coming
+
+### Methodology
+- coming 
+
+
+### Definition of Done
 - All of the Acceptance Crieteria (A/C) is implemented, manual & tested (100% unit test coverage)
 - Deployed & verified on production by implementer, reviewer(s) and Stackholders. 
 - No objection provided by QA teams. 
